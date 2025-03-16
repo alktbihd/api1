@@ -4,8 +4,7 @@
     "description": "Web application for calculating health insurance risk scores",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "run": "node index.js"
     },
     "keywords": [
       "health",
